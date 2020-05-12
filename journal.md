@@ -4,6 +4,9 @@ This is a new paper.
 #AUTHOR#
 Written by Emily
 
+#AUTHOR AFFILIATIONS#
+The authors come from these places. 
+
 #INTRODUCTION#
 Welcome to this paper!
 
