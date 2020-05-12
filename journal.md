@@ -15,3 +15,6 @@ Amazing results!
 
 #FIGURES# 
 Here are some interesting figures. 
+
+#CONCLUSION#
+Here is the concluding paragraph. 
