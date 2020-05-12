@@ -8,4 +8,4 @@ Written by Emily
 Welcome to this paper!
 
 #REFERENCES#
-This paper is based on work by Smith, J. 
+This paper is based on work by Smith, J and Markello, R. 
