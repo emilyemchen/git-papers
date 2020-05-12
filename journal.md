@@ -1,8 +1,8 @@
 #TITLE#
-This is a new paper. 
+This is a new co-authored  paper. 
 
 #AUTHOR#
-Written by Emily
+Written by Emily and Elizabeth
 
 #INTRODUCTION#
 Welcome to this paper!
